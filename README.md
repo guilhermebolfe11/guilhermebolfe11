@@ -23,7 +23,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
-<br/>
 <img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg" />
 <img align="left" alt="Vagrant" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/vagrant.svg" />
 <img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bitbucket.svg" />
@@ -33,7 +32,6 @@
 <img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/php.svg" />
 <img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/laravel.svg" />
 <img align="left" alt="JSON Web Token" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jsonwebtokens.svg" />
-<br/>
 <img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/material-ui.svg" />
 <img align="left" alt="Ngnix" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/nginx.svg" />
 <img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/insomnia.svg" />
