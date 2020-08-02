@@ -36,6 +36,8 @@
 <img align="left" alt="Ngnix" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/nginx.svg" />
 <img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/insomnia.svg" />
 <img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/typescript.svg" />
+<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />
+<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dot-net.svg" />
 
 <br/>
 <br/>
