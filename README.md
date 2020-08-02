@@ -9,7 +9,6 @@
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mail]
 
 <br/>
-<br/>
 
 ## Languages and Tools:
 
@@ -39,7 +38,6 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dot-net.svg" />
 
-<br/>
 <br/>
 
 ---
