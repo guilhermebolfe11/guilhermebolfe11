@@ -40,6 +40,8 @@
 
 <br/>
 
+---
+
 <img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true" />
 
 
