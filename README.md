@@ -3,14 +3,14 @@
 * IT Analyst at BTG Pactual
 * Software Engineer graduated from the Federal University of Pampa
 
----
+<br/>
 
 ## Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mail]
 
----
+<br/>
 
 ## Languages and Tools:
 
@@ -40,7 +40,7 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dot-net.svg" />
 
----
+<br/>
 
 ## Status:
 <img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true" />
