@@ -41,7 +41,6 @@
 <br/>
 <br/>
 
-## Status:
 <img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/guilherme-bolfe/
