@@ -39,8 +39,7 @@
 <img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dot-net.svg" />
 
 <br/>
-
----
+<br/>
 
 <img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true" />
 
