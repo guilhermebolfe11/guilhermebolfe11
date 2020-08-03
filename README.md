@@ -45,5 +45,7 @@
 
 <img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true&hide_border=true" />
 
+<img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebolfe11&layout=compact&hide_border=true" />
+
 [linkedin]: https://www.linkedin.com/in/guilherme-bolfe/
 [mail]: mailto:bolfeguilherme@gmail.com
