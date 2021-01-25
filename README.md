@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **bolfeguilherme@gmail.com**
 
-- 📄 My Resume: [Google Drive](encurtador.com.br/uHPRU)
+- 📄 My Resume: [Google Drive](https://encurtador.com.br/uHPRU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
