@@ -1,51 +1,22 @@
-# Hi there, I'm Guilherme Bolfe 👋
+<h1 align="center">Hi 👋, I'm Guilherme Bolfe</h1>
+<h3 align="center">Software Engineer graduated from the Federal University of Pampa</h3>
 
-* IT Analyst at BTG Pactual
-* Software Engineer graduated from the Federal University of Pampa
+- 🔭 I currently work: **IT Analyst at BTG Pactual**
 
-## Connect with me:
+- 👨‍💻 My portfolio: [https://guilhermebolfe.com/](https://guilhermebolfe.com/)
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/gmail.svg" />][mail]
+- 📫 How to reach me: **bolfeguilherme@gmail.com**
 
-<br/>
+- 📄 My Resume: [Google Drive](encurtador.com.br/uHPRU)
 
-## Languages and Tools:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guilherme-bolfe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="guilherme-bolfe" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/visualstudiocode.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/html5.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg" /
-<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/postgresql.svg" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />
-<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/docker.svg" />
-<img align="left" alt="Vagrant" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/vagrant.svg" />
-<img align="left" alt="Bitbucket" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/bitbucket.svg" />
-<img align="left" alt="Npm" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" />
-<img align="left" alt="Yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/yarn.svg" />
-<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/amazonaws.svg" />
-<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/php.svg" />
-<img align="left" alt="Laravel" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/laravel.svg" />
-<img align="left" alt="JSON Web Token" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/jsonwebtokens.svg" />
-<img align="left" alt="Material UI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/material-ui.svg" />
-<img align="left" alt="Ngnix" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/nginx.svg" />
-<img align="left" alt="Insomnia" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/insomnia.svg" />
-<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/typescript.svg" />
-<img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/csharp.svg" />
-<img align="left" alt=".NET" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/dot-net.svg" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<br/>
-<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermebolfe11&show_icons=true&locale=en&layout=compact&theme=react" alt="guilhermebolfe11" /></p>
 
-## Stats
-
-<img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true&hide_border=true" />
-
-<img align="left" alt="guilhermebolfe11 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebolfe11&layout=compact&hide_border=true" />
-
-[linkedin]: https://www.linkedin.com/in/guilherme-bolfe/
-[mail]: mailto:bolfeguilherme@gmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermebolfe11&show_icons=true&locale=en&theme=react" alt="guilhermebolfe11" /></p>
