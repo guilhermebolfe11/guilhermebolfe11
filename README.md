@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Guilherme Bolfe</h1>
 <h3 align="center">Software Engineer graduated from the Federal University of Pampa</h3>
 
-- 🔭 I’m currently working on [IT Analyst at BTG Pactual](https://www.btgpactual.com/)
+- 🔭 I’m currently working on [Software Engineer at Gavea Marketplace](https://www.gavea.com/)
 
 - 🌱 I’m currently learning **Flutter, Elixir, Next.js and more**
 
 - 👨‍💻 All of my projects are available at [https://guilhermebolfe.com](https://guilhermebolfe.com)
 
 - 📫 How to reach me **bolfeguilherme@gmail.com**
-
-- 📄 Know about my experiences [https://encurtador.com.br/uHPRU](https://encurtador.com.br/uHPRU)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
