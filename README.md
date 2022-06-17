@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Software Engineer at Gavea Marketplace](https://www.gavea.com/)
 
-- 🌱 I’m currently learning **Flutter, Elixir, Next.js and more**
-
 - 👨‍💻 All of my projects are available at [https://guilhermebolfe.com](https://guilhermebolfe.com)
 
 - 📫 How to reach me **bolfeguilherme@gmail.com**
