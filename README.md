@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Bolfe</h1>
 <h3 align="center">Software Engineer graduated from the Federal University of Pampa</h3>
 
-- 🔭 I’m currently working on [Software Engineer at Gavea Marketplace](https://www.gavea.com/)
+- 🔭 I’m currently working on [Software Engineer at Stone](https://www.stone.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://guilhermebolfe.com](https://guilhermebolfe.com)
 
